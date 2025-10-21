@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "منتج 1",
+      "description": "وصف المنتج 1",
+      "price": 100,
+      "image": "/images/product1.jpg",
+      "category": "فئة 1"
+    },
+    {
+      "id": 2,
+      "name": "منتج 2",
+      "description": "وصف المنتج 2",
+      "price": 200,
+      "image": "/images/product2.jpg",
+      "category": "فئة 2"
+    },
+    {
+      "id": 3,
+      "name": "منتج 3",
+      "description": "وصف المنتج 3",
+      "price": 300,
+      "image": "/images/product3.jpg",
+      "category": "فئة 1"
+    },
+    {
+      "id": 4,
+      "name": "منتج 4",
+      "description": "وصف المنتج 4",
+      "price": 400,
+      "image": "/images/product4.jpg",
+      "category": "فئة 3"
+    },
+    {
+      "id": 5,
+      "name": "منتج 5",
+      "description": "وصف المنتج 5",
+      "price": 500,
+      "image": "/images/product5.jpg",
+      "category": "فئة 2"
+    }
+  ]
+}

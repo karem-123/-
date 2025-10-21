@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+  /* خلفية برتقالية متدرجة */
+  background: linear-gradient(135deg, #ff9a00 0%, #ff6a00 50%, #ff3b00 100%);
+  color: #111; /* نص داكن يناسب الخلفية الفاتحة للقراءة */
+}
+
+/* تحسين ظهور مدخلات البحث والأزرار على الخلفية البرتقالية */
+.search-section input,
+.search_bar input {
+  background: rgba(255,255,255,0.95);
+  color: #111;
+  border: 1px solid rgba(0,0,0,0.12);
+  padding: 8px 10px;
+  border-radius: 6px;
+}
+
+.search-section button,
+.search_bar button {
+  background: #1f1f1f;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
